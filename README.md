@@ -1,35 +1,45 @@
 <div align="center">
 
-<img src="og-image.png" width="100%" alt="Thanakrit Portfolio Banner" />
+![Thanakrit Thanyawatsakul Banner](./banner.png)
 
 # Thanakrit Thanyawatsakul
-**Full-Stack Developer specializing in high-performance web applications** *Based in Chiang Mai, Thailand*
+**Full-Stack Developer · Performance Focus**
+*Chiang Mai, Thailand*
 
-[Portfolio](https://thanakrit.dev) • [LinkedIn](https://www.linkedin.com/in/thanakrit-thanyawatsakul/) • [Email](mailto:thanakrit.than.biz@gmail.com)
+### [Portfolio](https://thanakrit.dev) · [LinkedIn](https://www.linkedin.com/in/thanakrit-thanyawatsakul/) · [Email](mailto:thanakrit.than.biz@gmail.com)
 
 ---
 
-### "A product is only finished when it is fast enough to feel invisible to the user."
+> "Meaningful products are built when engineering precision meets invisible performance."
 
 </div>
 
-### 🏗️ Engineering & Craft
-I build digital products with a focus on **performance**, **maintainability**, and **accessibility**. My work bridges the gap between complex backend logic and fluid, high-performance frontend interfaces.
+## 🛠️ Performance & Craftsmanship
+*   **Optimization**: Delivered production applications achieving **100/100 Lighthouse** scores and **LCP < 1s** through deep-level performance tuning.
+*   **Velocity**: Successfully shipped **4 major web products in 6 months** while maintaining high quality standards.
+*   **Quality**: Ensuring stability with **100% test coverage** using Playwright and Vitest for mission-critical features.
+*   **Experience**: 2 years of professional hospitality-driven communication and systematic problem solving.
 
-* **High-Velocity Delivery**: Shipped **4 major web products within 6 months**, working in 10-person Agile teams.
-* **Performance Excellence**: Achieving **Lighthouse 100/100** and **LCP ≈ 0.4s** on production-ready applications.
-* **Complex Systems**: Experienced in architecting management systems (PMS) and scalable B2B platforms.
+## 💻 Tech Stack
 
-### 🛠️ Technical Focus
-* **Frontend**: Next.js (App Router), React, TypeScript, Tailwind CSS
-* **Backend**: Node.js, PostgreSQL, RESTful APIs
-* **Quality**: 100% test coverage using Playwright (E2E) and Vitest
-* **Workflow**: Docker, CI/CD via GitHub Actions, Linux
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+
+**Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=github-actions)
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phoebus47&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
+![Thanakrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phoebus47&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
 </div>

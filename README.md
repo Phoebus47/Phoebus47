@@ -8,10 +8,6 @@
 
 ### [Portfolio](https://thanakrit.dev) · [LinkedIn](https://www.linkedin.com/in/thanakrit-thanyawatsakul/) · [Email](mailto:thanakrit.than.biz@gmail.com)
 
----
-
-> "Meaningful products are built when engineering precision meets invisible performance."
-
 </div>
 
 ## 🛠️ Performance & Craftsmanship

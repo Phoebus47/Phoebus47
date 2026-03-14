@@ -32,7 +32,7 @@ Based in Chiang Mai, Thailand. I specialize in building production-ready web app
 ### 📫 Connect with me:
 - **Portfolio:** [thanakrit.dev](https://thanakrit.dev)
 - **Email:** thanakrit.than.biz@gmail.com
-- **LinkedIn:** [Thanakrit Thanyawatsakul](https://www.linkedin.com/in/thanakrit-than/)
+- **LinkedIn:** [Thanakrit Thanyawatsakul](https://www.linkedin.com/in/thanakrit-thanyawatsakul/)
 
 ---
 
